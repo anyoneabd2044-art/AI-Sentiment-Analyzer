@@ -136,7 +136,8 @@ Confidence Score: 0.98
 Mohd Abdullah arif
 Aspiring AI & Machine Learning Engineer
 
-GitHub: https://github.com/anyoneabd2044-art
+GitHub:https://github.com/anyoneabd2044-art/AI-Sentiment-Analyzer
+
 
 
 
