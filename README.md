@@ -135,7 +135,7 @@ Confidence Score: 0.98
 ##  Author
 Mohd Abdullah Arif
 Aspiring AI & Machine Learning Engineer
-GitHub: https://github.com/anyoneabd2044art
+GitHub: https://github.com/anyoneabd2044-art
 
 
 
